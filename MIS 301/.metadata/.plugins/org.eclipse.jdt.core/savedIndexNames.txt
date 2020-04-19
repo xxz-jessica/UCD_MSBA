@@ -1,0 +1,9 @@
+INDEX VERSION 1.130+C:\SRing 2018\MIS 301\.metadata\.plugins\org.eclipse.jdt.core
+957063388.index
+4119107905.index
+898290804.index
+451484239.index
+722834893.index
+2218223168.index
+3136445447.index
+3017952843.index
